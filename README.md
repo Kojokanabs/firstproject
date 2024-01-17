@@ -1,1 +1,1 @@
-#This is python tutorials 
+These are python projects files 
